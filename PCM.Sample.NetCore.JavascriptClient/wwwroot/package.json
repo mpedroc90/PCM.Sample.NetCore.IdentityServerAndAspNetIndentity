@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "pcm.jobs.indentity.javascript.client",
+  "private": true,
+  "devDependencies": {
+  },
+
+  "dependencies": {
+    "oidc-client": "1.4.1"
+  }
+}
