@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCM.Sample.NetCore.IdentittyProvider", "PCM.Sample.NetCore.IdentittyProvider.csproj", "{12802820-4E66-4F15-91FB-1BBAC5124CC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCM.Sample.NetCore.WebApiClientSample", "..\PCM.Jobs.WebApiClientSample\PCM.Sample.NetCore.WebApiClientSample.csproj", "{16AE28C5-021E-48F3-B81C-447248D9410D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCM.Sample.NetCore.IdentityConsole.Sample", "..\PCM.Job.IdentityConsole.Sample\PCM.Sample.NetCore.IdentityConsole.Sample.csproj", "{CD400223-987B-4481-9F94-E686C53E0E52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCM.Sample.NetCore.WebMvcClientSample", "..\PCM.Jobs.WebMvcClientSample\PCM.Sample.NetCore.WebMvcClientSample.csproj", "{88BAFAC6-945A-4B0C-9752-BD9F4DB9F97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCM.Sample.NetCore.IdentityServerWithAspIndentity", "..\PCM.IdentityServerWithAspIndentity\PCM.Sample.NetCore.IdentityServerWithAspIndentity.csproj", "{4AA2E852-C18A-4789-8A8B-305F15EB8127}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCM.Sample.NetCore.JavascriptClient", "..\PCM.Jobs.JavascriptClient\PCM.Sample.NetCore.JavascriptClient.csproj", "{D013E6CC-3F13-4CAF-BD46-0061AE1B62CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12802820-4E66-4F15-91FB-1BBAC5124CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12802820-4E66-4F15-91FB-1BBAC5124CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12802820-4E66-4F15-91FB-1BBAC5124CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12802820-4E66-4F15-91FB-1BBAC5124CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AE28C5-021E-48F3-B81C-447248D9410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AE28C5-021E-48F3-B81C-447248D9410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AE28C5-021E-48F3-B81C-447248D9410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AE28C5-021E-48F3-B81C-447248D9410D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD400223-987B-4481-9F94-E686C53E0E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD400223-987B-4481-9F94-E686C53E0E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD400223-987B-4481-9F94-E686C53E0E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD400223-987B-4481-9F94-E686C53E0E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BAFAC6-945A-4B0C-9752-BD9F4DB9F97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BAFAC6-945A-4B0C-9752-BD9F4DB9F97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BAFAC6-945A-4B0C-9752-BD9F4DB9F97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BAFAC6-945A-4B0C-9752-BD9F4DB9F97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA2E852-C18A-4789-8A8B-305F15EB8127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA2E852-C18A-4789-8A8B-305F15EB8127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA2E852-C18A-4789-8A8B-305F15EB8127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA2E852-C18A-4789-8A8B-305F15EB8127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D013E6CC-3F13-4CAF-BD46-0061AE1B62CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D013E6CC-3F13-4CAF-BD46-0061AE1B62CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D013E6CC-3F13-4CAF-BD46-0061AE1B62CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D013E6CC-3F13-4CAF-BD46-0061AE1B62CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383E07B8-AB8F-469A-B6CA-5F84455BCA56}
+	EndGlobalSection
+EndGlobal
